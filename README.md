@@ -1,2 +1,2 @@
-# yangzhizhouyang.github.io
+# yangzhku.github.io
 personal website
